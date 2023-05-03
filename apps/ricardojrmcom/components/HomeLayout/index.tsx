@@ -17,7 +17,7 @@ export const HomeLayout = ({ children }: HomeLayoutProps) => {
       }}
       header={
         <Header transparent home={<Logo />}>
-          <Nav />
+          {/* <Nav /> */}
         </Header>
       }
       footer={
@@ -27,7 +27,6 @@ export const HomeLayout = ({ children }: HomeLayoutProps) => {
           socials={{
             brandName: APP.brandName,
             github: true,
-            twitter: true,
             linkedin: true,
           }}
         />

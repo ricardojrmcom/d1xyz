@@ -31,10 +31,10 @@ export const HomeView = () => {
             </LinkButton>
           </Box>
           <Box textAlign='center' mb={3} mt={1}>
-            <Subtitle1 paragraph>Indie Business Hacking</Subtitle1>
-            <Subtitle2>All about AI and Automation</Subtitle2>
+            <Subtitle1 paragraph>Senior Frontend Engineer</Subtitle1>
+            <Subtitle2>Typescript - React.js - Next.js</Subtitle2>
           </Box>
-          <Box textAlign='center' mt={1.5} mb={1.5}>
+          {/* <Box textAlign='center' mt={1.5} mb={1.5}>
             <LinkButton
               color='secondary'
               variant='outlined'
@@ -66,7 +66,7 @@ export const HomeView = () => {
             >
               Services
             </LinkButton>
-          </Box>
+          </Box> */}
           <Box textAlign='center' mt={1.5} mb={1.5}>
             <LinkButton
               color='secondary'

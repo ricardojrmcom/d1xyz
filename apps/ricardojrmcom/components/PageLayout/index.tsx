@@ -22,7 +22,6 @@ export const PageLayout = ({ children }: PageLayoutProps) => {
           socials={{
             brandName: APP.brandName,
             github: true,
-            twitter: true,
             linkedin: true,
           }}
         />
